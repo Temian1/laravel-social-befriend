@@ -1,5 +1,5 @@
 {
-    "name": "social/befriended",
+    "name": "temian/laravel-befriended",
     "description": "Eloquent Befriended brings social media-like features like following, blocking and filtering content based on following or blocked models.",
     "keywords": [
         "eloquent",
