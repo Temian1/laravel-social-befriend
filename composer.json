@@ -1,5 +1,5 @@
 {
-    "name": "rennokki/befriended",
+    "name": "social/befriended",
     "description": "Eloquent Befriended brings social media-like features like following, blocking and filtering content based on following or blocked models.",
     "keywords": [
         "eloquent",
@@ -18,19 +18,19 @@
         "blocking",
         "blocker"
     ],
-    "homepage": "https://github.com/renoki-co/befriended",
+    "homepage": "https://github.com/temian1/social-befriend",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "Alex Renoki",
-            "email": "alex@renoki.org",
-            "homepage": "https://github.com/rennokki",
+            "name": "Adeala Ademola",
+            "email": "ag",
+            "homepage": "https://github.com/temian1",
             "role": "Developer"
         }
     ],
     "require": {
         "doctrine/dbal": "^2.10|^3.3",
-        "illuminate/database": "^8.83|^9.0.1",
+        "illuminate/database": "^8.83|^9.0.1|^10.0",
         "illuminate/support": "^8.83|^9.0.1"
     },
     "require-dev": {
